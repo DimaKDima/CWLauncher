@@ -1,0 +1,42 @@
+{
+  "minecraftVersion": "1.20.1",
+  "loader": "fabric",
+  "fabricLoaderVersion": "",
+  "ramMb": 0,
+  "autoStart": true,
+  "autoUpdateBuild": true,
+  "autoUpdateLauncher": true,
+  "internetLeader": false,
+  "theme": "dark",
+  "useCustomBackground": false,
+  "backgroundPath": "",
+  "telegramUrl": "https://t.me/commonworld",
+  "discordUrl": "https://discord.gg/V6HnUWWj3J",
+  "supportUrl": "https://discord.gg/vEkuksnUQ4",
+  "graphics": {
+    "width": 1280,
+    "height": 720,
+    "fullscreen": false,
+    "framerateLimit": 240,
+    "vsync": true
+  },
+  "extraJvmArgs": "",
+  "network": {
+    "cwVersionUrl": "https://cdn.common-world.example/cwVersion.txt",
+    "lVersionUrl": "https://cdn.common-world.example/lVersion.txt",
+    "launcherDownloadUrl": "https://cdn.common-world.example/CWLauncher.jar",
+    "modpackUrl": "https://drive.google.com/file/d/1yPV7USzhlWKNdBdqypyyB2huFLlBxmAF/view?usp=drive_link",
+    "newsUrl": "",
+    "galleryUrl": "",
+    "serverIp": "",
+    "checkIntervalSec": 120
+  },
+  "technical": {
+    "javaPath": "",
+    "gameDir": "",
+    "offlineAllowed": true,
+    "developerMode": false,
+    "verboseLogging": false,
+    "maxAttempts": 3
+  }
+}
